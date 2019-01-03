@@ -1,1 +1,1 @@
-# 2d_space_shooter
+Just a simple arcade 2d shooter
